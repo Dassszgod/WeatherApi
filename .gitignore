@@ -7,3 +7,13 @@
 *.vsp
 *.ncb
 *.opendb
+
+# Ignore compiled binaries
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.msi
+*.nupkg
