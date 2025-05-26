@@ -1,0 +1,9 @@
+# Visual Studio system folders
+.vs/
+*.user
+*.suo
+*.db
+*.VC.db
+*.vsp
+*.ncb
+*.opendb
